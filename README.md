@@ -5,4 +5,4 @@ Using a guided video tutorial, I embarked on a project to create a moviedb clone
 
 Given my emphasis on backend learning, some frontend features remained unfinished. Nonetheless, this experience provided valuable insights into data flow between frontend and backend, including storage and retrieval from MongoDB. The project was an invaluable full-stack learning experience.
 
-Tutorial: https://www.youtube.com/watch?v=5PdEmeopJVQ 
+Video Tutorial: https://www.youtube.com/watch?v=5PdEmeopJVQ 
